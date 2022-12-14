@@ -1,0 +1,11 @@
+# Local Terraform dir
+.terraform/*
+
+# Terraform state file
+*.tfstate
+*.tfstate.*
+
+# Terraform variables
+*.tfvars
+
+.terraform.lock.hcl
